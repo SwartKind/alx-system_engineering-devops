@@ -1,2 +1,1 @@
-#!/bin/basg
-find . -empty -printf %fn
+#!bin/bash
